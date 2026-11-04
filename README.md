@@ -13,7 +13,7 @@ AI 积分，顺手薅点。macOS 菜单栏里的 AI 产品每日权益助手。
 
 ## 下载与安装
 
-下载 [薅点 0.8.5](https://github.com/huajiankan/haodian/releases/tag/v0.8.5) 中的 DMG，将「薅点」拖入「Applications」。完整功能介绍见该版本发布说明。
+下载 [薅点最新正式版](https://github.com/huajiankan/haodian/releases/latest) 中的 DMG，将「薅点」拖入「Applications」。完整功能介绍见该版本发布说明。
 
 支持 macOS 13 及以上、Apple Silicon 和 Intel。当前使用临时签名，尚未经过 Apple 公证；首次打开可能需要在系统「隐私与安全性」中允许运行。
 
